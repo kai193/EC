@@ -1,0 +1,27 @@
+div, li {
+    margin-bottom: 10px;
+}
+
+.comment-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+.container {
+    max-width: 800px;
+}
+.header {
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    background-color: #d6f93b;
+}
+.footer {
+    background-color: #d6f93b;
+    color: #ffffff;
+}
