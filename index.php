@@ -9,7 +9,7 @@ $diaries = $diaryData->getAll();
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <body class="bg-light">
         <div class="container mt-5">
-            <h1 class="text-primary">日記一覧aaaaaaaaaaeeeeee</h1>
+            <h1 class="text-primary">日記一覧やややややや</h1>
             <div class="mb-3">
                 <a href="./my-page.php" class="btn btn-primary">マイページへ</a>
             </div>
