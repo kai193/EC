@@ -14,7 +14,7 @@ $diaries = $diaryData->getAll();
                 <a href="./my-page.php" class="btn btn-primary">マイページへ</a>
             </div>
             <div class="mb-3">
-                <a href="./post.php" class="btn btn-success">新規作成aaaaa</a>
+                <a href="./post.php" class="btn btn-success">新規rikuto作成aaaaa</a>
             </div>
             <ul class="list-group">
                 <?php foreach ($diaries as $diary): ?>
