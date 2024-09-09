@@ -11,7 +11,7 @@ $diaries = $diaryData->getAll();
         <div class="container mt-5">
             <h1 class="text-primary">日記一覧やややややや</h1>
             <div class="mb-3">
-                <a href="./my-page.php" class="btn btn-primary">マイページへ</a>
+                <a href="./my-page.php" class="btn btn-primary">マイページへ佐々木子牛はくさいよー！</a>
             </div>
             <div class="mb-3">
                 <a href="./post.php" class="btn btn-success">新規rikuto作成aaaaa</a>
